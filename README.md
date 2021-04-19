@@ -1,4 +1,4 @@
-# ecommerce_project
+# Yip Enterprises Online Shop
 
 A new Flutter application.
 
